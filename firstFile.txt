@@ -2,6 +2,8 @@ Hello world
 
 This is morning
 
+Class hours 9am - 12pm
+
 Evening
 
 Night
